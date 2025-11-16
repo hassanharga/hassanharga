@@ -1,7 +1,6 @@
 # 💫 About Me:
 
-Experienced Full-Stack Developer skilled in Node.js, React and Angular, with a strong focus on performance, scalability, and clean code. Expertise in Docker, AWS, CI/CD, and cloud deployments, optimizing applications for efficiency and security. Passionate about real-time data, SEO, and integrations, collaborating in Agile teams to deliver high-quality products.
-
+Versatile and impact-driven Full Stack Developer experienced in building scalable, secure, and high-performance web applications. Skilled in both frontend and backend development using modern stacks like Typescript, Node.js, React, and Angular Proven track record in reducing delivery cycles, leading engineering efforts, and mentoring junior developers. Committed to building clean, maintainable code, and delivering business value in agile environments.
 ## 🌐 Socials:
 
 <div >
@@ -40,10 +39,10 @@ Experienced Full-Stack Developer skilled in Node.js, React and Angular, with a s
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=hassanharga&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hassanharga&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="150" alt="languages graph"  />
-  
-<a href=""><img src="https://streak-stats.demolab.com/?user=hassanharga" alt="GitHub Streak" /></a>
+![](https://github-readme-stats.vercel.app/api?username=hassanharga&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=hassanharga&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hassanharga&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 </div>
 
 <!-- ## 🏆 GitHub Trophies
