@@ -1,4 +1,4 @@
-# Hi, I'm Hassan 👋
+# Hi, I'm HaSsan 👋
 
 Full Stack Developer building scalable, secure, high-performance web applications. I work across the stack with TypeScript, Node.js, React, and Angular, with a proven track record of reducing delivery cycles, leading engineering efforts, and mentoring junior developers. I care about clean, maintainable code and delivering real business value in agile environments.
 
@@ -46,3 +46,5 @@ Full Stack Developer building scalable, secure, high-performance web application
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/hassanharga)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hassanharga@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=201282668013)
+[![Portfolio](https://hassanharga.vercel.app/)]
+
